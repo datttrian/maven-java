@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "redhat.java",
+    "redhat.fabric8-analytics",
+    "sohibe.java-generate-setters-getters",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
